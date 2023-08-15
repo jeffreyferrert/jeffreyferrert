@@ -4,9 +4,8 @@
 - 🌱 I’m currently learning to Surf 🏄
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I speak 4 languages (Spanish, English, French, Portuguese)
 - 🪄 2023 goal: Read 52 books
+- ⚡ Fun fact: I speak 4 languages (Spanish, English, French, Portuguese)
 
 ### Languages and Tools:
 
@@ -24,10 +23,5 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-<br />
-<br />
-
-
 [website]: https://holistic-developer.com/
-[linkedin]: https://www.linkedin.com/in/jferrertorres/
 [portfolio]: https://arsentieva.github.io/profile/
