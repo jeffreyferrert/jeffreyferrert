@@ -1,6 +1,3 @@
-### Hello World, I'm Jeffrey  👋
-
-
 ## Hello World, I'm Jeffrey  👋
 - ✍ You can find my projects here [portfolio]
 - 🔭 I’m currently working on a clone of Facebook
