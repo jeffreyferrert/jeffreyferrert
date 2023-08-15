@@ -1,7 +1,7 @@
 ### Hello World, I'm Jeffrey  👋
 
 
-## I'm a ...
+## Hello World, I'm Jeffrey  👋
 - ✍ You can find my projects here [portfolio]
 - 🔭 I’m currently working on a clone of Facebook
 - 🌱 I’m currently learning to Surf 🏄
