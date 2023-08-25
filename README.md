@@ -11,4 +11,4 @@
 <img src="https://skillicons.dev/icons?i=ruby,rails,js,react,redux,nodejs,python,webpack,css,html,jquery,mongodb,postgres,git,aws&perline=15" />
 
 [website]: https://jeffreyferrert.github.io/PortfolioSite/
-[portfolio]: https://arsentieva.github.io/profile/
+[portfolio]: https://jeffreyferrert.github.io/PortfolioSite/
