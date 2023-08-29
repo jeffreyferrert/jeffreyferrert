@@ -29,15 +29,15 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ruby,rails,js,react,redux,nodejs,python,webpack,css,html,jquery,mongodb,postgres,git,aws&perline=15" />
 </p>
-
+<!-- 
 #### Github Impact:
-
-<p align="center">
-  <img alt="Contributions" src="https://img.shields.io/static/v1?label=Contributions&message=976&color=2b9348&logo=github&style=flat-square">
-  <img alt="PR's" src="https://img.shields.io/static/v1?label=PR's&message=57&color=2b9348&logo=github&style=flat-square">
-  <img alt="Issues" src="https://img.shields.io/static/v1?label=Issues&message=53&color=2b9348&logo=github&style=flat-square">
-  <img alt="Stars Badge" src="https://img.shields.io/github/stars/jeffreyferrert?style=flat-square&logo=github&color=2b9348">
-</p>  
+-->
+<!-- <p align="center"> -->
+<!--   <img alt="Contributions" src="https://img.shields.io/static/v1?label=Contributions&message=482&color=2b9348&logo=github&style=flat-square"> -->
+<!--   <img alt="PR's" src="https://img.shields.io/static/v1?label=PR's&message=57&color=2b9348&logo=github&style=flat-square"> -->
+<!--   <img alt="Issues" src="https://img.shields.io/static/v1?label=Issues&message=53&color=2b9348&logo=github&style=flat-square"> -->
+<!--   <img alt="Stars Badge" src="https://img.shields.io/github/stars/jeffreyferrert?style=flat-square&logo=github&color=2b9348"> -->
+<!-- </p>  -->
 
 <p align="center">
 <!--   <img alt="Visitor Badge" src="https://visitor-badge.laobi.icu/badge?page_id=jeffreyferrert.jeffreyferrert"> -->
