@@ -19,10 +19,9 @@
 <p>
 
 - ✍ You can find my projects here [portfolio]
-- 🔭 I’m currently working on a clone of Facebook
-- 🌱 I’m currently learning to Surf 🏄
+- 🔭 I’m currently learning Java
+- 🏄 I’m currently learning to Surf 
 - 👯 I’m looking to collaborate on open source
-- 🪄 2023 goal: Read 52 books
 - ⚡ Fun fact: I speak 3 languages (Spanish, English, French)
 
 #### Languages and Tools:
