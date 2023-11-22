@@ -26,7 +26,7 @@
 
 #### Languages and Tools:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ruby,rails,js,react,redux,nodejs,python,webpack,css,html,jquery,mongodb,postgres,git,aws&perline=15" />
+  <img src="https://skillicons.dev/icons?i=java,spring,ruby,rails,js,react,redux,nodejs,python,css,html,mongodb,postgres,git,aws&perline=15" />
 </p>
 <!-- 
 #### Github Impact:
