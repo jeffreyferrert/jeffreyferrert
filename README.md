@@ -18,8 +18,6 @@
 <p>
 -->
 
-- ✍ You can find my projects here [portfolio]
-- 🔭 I’m currently learning TypeScript
 - 🏄 I’m currently learning to Surf 
 - 👯 I’m looking to collaborate on open source
 - ⚡ Fun fact: I speak 3 languages (Spanish, English, French)
